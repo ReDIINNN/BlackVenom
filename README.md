@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReDIINNN/ReDIINNN/main/blackvenom.png" alt="Blackvenom Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/main/logo.png" alt="BlackVenom Logo" width="400"/>
 </p>
 
 TÜRKÇE - BlackVenom Özellikleri ve Açıklama
