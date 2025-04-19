@@ -1,6 +1,6 @@
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ReDIINNN/ReDIINNN/main/blackvenom.png" alt="WebRecon Logo" width="300"/>
+</p>
 
 TÜRKÇE - BlackVenom Özellikleri ve Açıklama
 
