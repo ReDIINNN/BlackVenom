@@ -53,10 +53,9 @@ To simplify and centralize complex penetration test operations into a clean and 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/tree/main/images/Venom.png" alt="Venom Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/main/images/Black.png" alt="BlackVenom Screenshot 1" width="600"/>
 </p>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/tree/main/images/Black.png" alt="Black.png Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/main/images/Venom.png" alt="BlackVenom Screenshot 2" width="600"/>
 </p>
