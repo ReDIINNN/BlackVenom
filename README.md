@@ -57,5 +57,5 @@ To simplify and centralize complex penetration test operations into a clean and 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/main/images/Venom.png" alt="BlackVenom Screenshot 2" width="600"/>
+  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/main/images/venom.png" alt="BlackVenom Screenshot 2" width="600"/>
 </p>
