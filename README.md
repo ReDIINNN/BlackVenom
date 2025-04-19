@@ -50,3 +50,13 @@ A Python + Shell-based payload generation and shell management framework designe
 
 🔹 Goal:
 To simplify and centralize complex penetration test operations into a clean and fast workflow.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/tree/main/images/Venom.png" alt="Venom Logo" width="400"/>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ReDIINNN/BlackVenom/tree/main/images/Black.png" alt="Black.png Logo" width="400"/>
+</p>
